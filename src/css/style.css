@@ -77,9 +77,3 @@ body{
     background-color: #f4f4f4;
 
 }
-
-@media (max-width: 768px){
-    .swiper-navBtn{
-        display: none;
-    }
-}
